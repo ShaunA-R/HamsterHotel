@@ -1,0 +1,389 @@
+.nav-link {
+    color: white !important;
+    padding-bottom: 0px;
+    text-align: center;
+   
+    
+}
+
+.container-fluid {
+
+    padding: 0;
+}
+
+@media (min-width: 992px) {
+   
+
+
+ 
+    .movebottom {
+        margin-top:70px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-left:100px;
+    }
+
+    
+  
+    .nav-item {
+        padding-left:25px;
+    }
+
+   
+    .movingTxt{
+        margin-right:30px;
+    }
+
+   
+    .selected {
+        border: 2px solid #E5FEFF;
+        
+        padding: 0px 5px;
+    }
+
+ 
+
+    .hamsterHome {
+       
+        height: 350px;
+
+        width: 462px;
+        object-position: center;
+        max-width: 100%; 
+        
+        object-fit: cover;
+
+
+       
+    }
+
+}
+
+@media (min-width: 768px) {
+   
+    .btmPosition {
+        margin-top:70px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-left:100px;
+    }
+
+    .nav-item {
+        padding-left:25px;
+    }
+
+    .nav-link:hover {
+        border: 2px solid #E5FEFF;
+        padding: 0px 5px;
+    }
+}
+
+.navbar-toggler{
+    border-color: white !important;
+    margin-left:20px;
+}
+
+.navColor {
+    background-color:#000324;
+}
+
+
+.sizeNew16 {
+    font-size: 16px;
+}
+
+.sizeNew22 {
+
+    font-size: 22px;
+}
+
+.nav-link:hover {
+    border: 2px solid #E5FEFF;
+    padding: 0px 0px;
+}
+
+.size20 {
+
+    font-size: 20px;
+}
+
+.newHeader {
+    background-image: url("../assets/header.jpg");
+   
+   
+    height: 100%;
+    background-position: center;
+    
+    
+    background-size: cover;
+}
+
+
+.backgrndHead {
+    background-color: #000324;
+    opacity: 80%;
+   
+   
+    margin-top: 250px;
+    margin-bottom: 200px;
+    
+    
+    padding-bottom: 60px;
+    padding-top: 30px;
+    
+    text-align: center;
+}
+
+.txtNow {
+    font-size: 45px;
+
+
+
+    padding-top: 45px;
+    margin-bottom: 0px;
+
+}
+
+.dsFont {
+
+    font-family: 'Dosis', sans-serif;
+}
+
+
+
+
+
+.txtAgain {
+    line-height: 40px;
+
+
+}
+
+
+
+.colorBlu {
+    color: #1A1B26;
+}
+
+.sizeNow35
+
+{
+font-size: 35px;
+}
+
+.sizeNow25 {
+
+    font-size: 25px;
+}
+
+.trophyImg {
+    padding-top:10px;
+   
+    max-height: 150px;
+    
+}
+
+
+.backgrndRoom {
+    background-image: url("../assets/bg2.jpg");
+
+    background-position: center;
+
+    background-size: cover;
+}
+
+.headtoRoom {
+
+    margin-top: 18 px;
+    
+    font-size: 22px;
+
+
+
+}
+
+.card {
+    border: none;
+    margin-right:0px;
+    
+}
+
+.roomTall {
+    height: auto; 
+}
+
+.roomdesc {
+    size: 16px;
+    font-weight: bolder;
+}
+
+.removePadding {
+
+    padding-bottom: 0;
+}
+
+.reservebtn {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+   
+    border-radius: 0;
+    background-color: #004CC7;
+}
+
+
+.snappeaimg2 {
+    width: 369px;
+    height: 416px; 
+    height: 400px; 
+   
+    object-fit: cover;
+    object-position: center;
+}
+
+
+.fontsize25 {
+    font-size: 25px;
+}
+
+
+.roomhead {
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.packageObject {
+    color: #1F51A8;
+}
+
+.newWedding {
+    width: 700px; 
+    
+    height: 200px; 
+    object-fit: cover;
+    
+    object-position: 20% 10%; 
+}
+
+.newWedding2 {
+    width: 700px; 
+    height: 200px;
+    object-fit: cover;
+    object-position: 20% 30%; 
+}
+
+.newWedding3 {
+    width: 700px; 
+    height: 200px; 
+    object-fit: cover;
+    object-position: 20% 70%; 
+}
+
+.newBg4 {
+    background-image: url("../assets/bg.jpg");
+    
+    background-position: 0% 70%;
+    background-size: cover;
+    
+}
+
+.clearColor {
+    color: white;
+}
+
+.rsvpBackgrnd {
+    background-color: #000324;
+
+
+    margin-bottom: 90px;
+}
+
+
+
+.moveImg {
+    max-height: 104px;
+}
+
+.iconicJPG {
+    max-height: 100px;
+    max-width: 143px;
+    height:100%;
+    width:100%;
+}
+
+
+.srcTxt {
+
+    font-family: 'Source Sans Pro', sans-serif;
+
+ 
+}
+
+
+
+
+.Bluu {
+    color: #E5FEFF;
+}
+
+.reservePic {
+    padding-right: 0px;
+    padding-left: 0px;
+    object-fit: cover;
+    height: 100%; 
+    max-height: 400px;
+    width: 100%;
+}
+
+.btn pull-right{
+    justify-content: baseline;
+
+
+}
+
+.bottomCompany {
+    background-color: #000324;
+}
+
+.logoAgain  {
+    margin-top: 20px;
+    height: 100%;
+    width: 100%;
+    max-height: 150px;
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+@media screen and (max-width: 740px) {
+
+
+    .roomhead {
+        font-size: 30px;
+        padding-top: 5px;
+    }
+
+  
+
+   .font20{
+
+    font-size: 20px;
+   }
+
+    .btn{
+        padding:15px;
+        font-size:23px !important;
+    }
+
+    .reservebtn {
+        font-size:23px !important;
+    }
+}
+
+.active{
+    border: 2px solid #E5FEFF;
+    padding: 0px 5px;
+}
